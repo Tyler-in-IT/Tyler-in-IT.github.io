@@ -2,6 +2,8 @@
 
 #### Location Charlotte, NC
 #### Phone 315-567-3815
+#### Email tiller5159@yahoo.com
+#### LinkedIn https://www.linkedin.com/in/tyler-smith-5956b8ba/
 
 ### Technical Skills: Windows Server, M365, AWS, Azure
 
@@ -48,5 +50,5 @@
 ## Projects
 
 ## Education
-- High School Diploma | Auburn High School - Auburn, NY (_June 2016_)								       		
+- High School Diploma | Auburn High School - Auburn, NY (_June 2016_)					       		
 - Certificate of Completion: Computer Systems and Network Administration | Cayuga-Onondaga BOCES - Auburn, NY (_June 2016_)

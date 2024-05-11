@@ -5,7 +5,7 @@
 #### [Email: tiller5159@yahoo.com](mailto:tiller5159@yahoo.com)
 #### [LinkedIn](https://www.linkedin.com/in/tyler-smith-5956b8ba/)
 
-### Technical Skills: Windows 7+, Windows Server 2008 R2+, M365, AWS, Azure, VMware vSphere 5.5+ NCentral, V
+### Technical Skills: Windows 7+, Windows Server 2008 R2+, M365, AWS, Azure, VMware vSphere 5.5+ NCentral
 
 ## Work Experience
 **Customer Engineer @ VAST IT Services, Downers Grove, IL (Remote) (_March 2022 - Present_)**

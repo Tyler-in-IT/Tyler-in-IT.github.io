@@ -21,7 +21,7 @@
 - Ran pre-sale demos of products we offer to customers that they could benefit from
 - Audited customers’ environments for any EOL devices and software to avoid a lapse in vendor support coverage.
 
-**Technical Support Lead  @ Extra Mile Technology Services, Auburn, NY (In-person & remote)  (_September 2016- March 2022_)**
+**Technical Support Lead  @ Extra Mile Technology Services, Auburn, NY (In-person & remote)  (_September 2016 - March 2022_)**
 - Managed and configured UniFi network devices
 - Setup and maintained customers’ Microsoft 365 instances to their needs
 - Maintained servers and systems to keep networks fully operational during peak periods

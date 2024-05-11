@@ -1,9 +1,9 @@
 # Tyler in IT
 
-## Location Charlotte, NC
-## Phone 315-567-3815
+#### Location Charlotte, NC
+#### Phone 315-567-3815
 
-#### Technical Skills: Windows Server, M365, AWS, Azure
+### Technical Skills: Windows Server, M365, AWS, Azure
 
 ## Work Experience
 **Customer Engineer @ VAST IT Services, Downers Grove, IL (Remote) (_March 2022 - Present_)**

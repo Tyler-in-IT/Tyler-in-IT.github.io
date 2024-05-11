@@ -1,5 +1,8 @@
 # Tyler in IT
 
+## Location Charlotte, NC
+## Phone 315-567-3815
+
 #### Technical Skills: Windows Server, M365, AWS, Azure
 
 ## Work Experience
@@ -36,10 +39,10 @@
 - Used ConnectWise Managed ticketing system to manage and process support actions and requests
 
 ## Certifications
-- AZ900
-- AZ104
-- MS900
-- SC900
+- AZ-900
+- AZ-104
+- MS-900
+- SC-900
 - CLF-02
 
 ## Projects

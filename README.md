@@ -14,7 +14,7 @@
 - Planned and migrated our internal password manager from on-prem solutions to SaaS and configured it with best practices
 - Planned and migrated our internal on-prem file server to SharePoint
 - Helped with internal staff IT issues
-- Managed and maintained our N-able Central server
+- Managed and maintained our N-able NCentral server
 - Managed and maintained our M365 instance
 - Responded to Entra ID security alerts
 - Monitored customers’ servers and devices with NCentral and responded to alerts
